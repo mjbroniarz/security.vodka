@@ -29,4 +29,8 @@
 | Fedora Security Spin | https://fedoraproject.org/wiki/Security_Lab | Fedora based live CD for security auditing, forensics and pentesting |
 | ArchStrike | https://archstrike.org | Arch Linux respository for security professionals | 
 
+##### Cool security-related stuff by even cooler people 
+| Name | Url | Description |
+|------|-----|-------------|
+| Grzegorz Tworek | https://github.com/gtworek | Useful stuff for Microsoft security professionals |
 
