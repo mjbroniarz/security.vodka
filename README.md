@@ -19,6 +19,16 @@
 
 
 
+#### Vulnerability scanners 
+
+| Name | Url | Description |
+|------|-----|-------------|
+| OpenVAS | [https://openvas.org/](https://openvas.org/) | Open Vulnerability Assessment Scanner |
+| nmap_vulners | [https://github.com/vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) | NSE script based on Vulners.com API |
+| Vuls | [https://vuls.io/](https://vuls.io/) | Vuls is open-source, agent-less vulnerability scanner |
+
+
+
 #### Linux distributions focused on pentesting and forensics
 
 | Name | Url | Description |
@@ -42,4 +52,7 @@
 | gtworek | https://github.com/gtworek | Useful stuff for Microsoft security professionals |
 | k3idii | https://github.com/k3idii | ITSEC & Nuclear Physics! ;) |
 | mak | https://github.com/mak |  |
+| enaqx | [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) | Penetration testing tools |
+| arch3rPro | [https://github.com/arch3rPro/PentestTools](https://github.com/arch3rPro/PentestTools} | Pentest Tools | 
 
+#### 
