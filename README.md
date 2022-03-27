@@ -7,8 +7,8 @@
 
 | Name | Url | Description |
 |------|-----|-------------|
-| Feodo Tracker | https://feodotracker.abuse.ch | abuse.ch feed project |
-| URLHaus | https://urlhaus.abuse.ch | abuse.ch malicious urls |
+| Feodo Tracker | (https://feodotracker.abuse.ch) | abuse.ch feed project |
+| URLHaus | (https://urlhaus.abuse.ch) | abuse.ch malicious urls |
 | OTX | https://otx.alienvault.com | Open Threat Inteligence by AlienVault |
 | Proofpoint | https://rules.emergingthreats.net | Proofpoint Emerging Threats Rules |
 | FBI InfraGard | https://www.infragard.org | FBI InfraGard Feed | 
