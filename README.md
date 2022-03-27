@@ -15,3 +15,17 @@
 | DanTV | https://www.dan.me.uk/dnsbl | DNS Blacklist | 
 | CINSscore | https://cinsscore.com | The CINS Score feed | 
 
+##### Linux distributions focused on pentesting and forensics
+| Name | Url | Description |
+|------|-----|-------------|
+| Backbox Linux | https://linux.backbox.org | penetration testing and security assessment oriented Linux distribution |
+| BlackArch Linux | https://blackarch.org |  Arch Linux-based penetration testing distribution |
+| Kali | https://www.kali.org | Debian-based pentesting distribution |
+| Parrot Security | https://parrotlinux.org | The ultimate framework for your Cyber Security operations |
+| Samurai Web Testing | https://github.com/SamuraiWTF/samuraiwtf | Virtual machines framework for pentesting | 
+| CAINE | https://www.caine-live.net | Ubuntu based live CD for forensic analysis | 
+| NST | http://www.networksecuritytoolkit.org/nst/index.html | Network Security Toolkit |
+| Fedora Security Spin | https://fedoraproject.org/wiki/Security_Lab | Fedora based live CD for security auditing, forensics and pentesting |
+| ArchStrike | https://archstrike.org | Arch Linux respository for security professionals | 
+
+
