@@ -16,6 +16,7 @@
 | CINSscore | https://cinsscore.com | The CINS Score feed | 
 
 ##### Linux distributions focused on pentesting and forensics
+
 | Name | Url | Description |
 |------|-----|-------------|
 | Backbox Linux | https://linux.backbox.org | penetration testing and security assessment oriented Linux distribution |
