@@ -2,7 +2,8 @@
 
 ### Yet another security tools list. And just like vodka - use responsibly
 
-##### Threat Intelligence Feeds
+
+#### Threat Intelligence Feeds
 
 | Name | Url | Description |
 |------|-----|-------------|
@@ -15,7 +16,8 @@
 | DanTV | https://www.dan.me.uk/dnsbl | DNS Blacklist | 
 | CINSscore | https://cinsscore.com | The CINS Score feed | 
 
-##### Linux distributions focused on pentesting and forensics
+
+#### Linux distributions focused on pentesting and forensics
 
 | Name | Url | Description |
 |------|-----|-------------|
@@ -29,7 +31,8 @@
 | Fedora Security Spin | https://fedoraproject.org/wiki/Security_Lab | Fedora based live CD for security auditing, forensics and pentesting |
 | ArchStrike | https://archstrike.org | Arch Linux respository for security professionals | 
 
-##### Cool security-related stuff by even cooler people 
+
+#### Cool security-related stuff by even cooler people 
 
 | Name | Url | Description |
 |------|-----|-------------|
