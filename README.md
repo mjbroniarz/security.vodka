@@ -30,7 +30,10 @@
 | ArchStrike | https://archstrike.org | Arch Linux respository for security professionals | 
 
 ##### Cool security-related stuff by even cooler people 
+
 | Name | Url | Description |
 |------|-----|-------------|
-| Grzegorz Tworek | https://github.com/gtworek | Useful stuff for Microsoft security professionals |
+| gtworek | https://github.com/gtworek | Useful stuff for Microsoft security professionals |
+| k3idii | https://github.com/k3idii | ITSEC & Nuclear Physics! ;) |
+| mak | https://github.com/mak |  |
 
