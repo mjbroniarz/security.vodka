@@ -53,6 +53,6 @@
 | k3idii | https://github.com/k3idii | ITSEC & Nuclear Physics! ;) |
 | mak | https://github.com/mak |  |
 | enaqx | [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) | Penetration testing tools |
-| arch3rPro | [https://github.com/arch3rPro/PentestTools](https://github.com/arch3rPro/PentestTools} | Pentest Tools | 
+| arch3rPro | [https://github.com/arch3rPro/PentestTools](https://github.com/arch3rPro/PentestTools) | Pentest Tools | 
 
 #### 
