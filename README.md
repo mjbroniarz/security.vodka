@@ -41,7 +41,7 @@
 | Wapiti | [https://sourceforge.net/projects/wapiti/files/](https://sourceforge.net/projects/wapiti/files/) | web-app vulnerability scanner |
 | Wireshark | [https://www.wireshark.org/](https://www.wireshark.org/) | Network protocols analyzer |
 | Wfuzz | [https://github.com/xmendez/wfuzz](https://github.com/xmendez/wfuzz) | Web pentesting tool |
-
+| Vega | [https://subgraph.com/vega/](https://subgraph.com/vega/) | Open source web security scanner | 
 
 
 
