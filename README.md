@@ -29,6 +29,21 @@
 
 
 
+#### Security Testing Tools
+
+| Name | Url | Description |
+|------|-----|-------------|
+| ZAP | [https://www.zaproxy.org/](https://www.zaproxy.org/) | OWASP Zed Attack Proxy |
+| sqlmap | [https://sqlmap.org/](https://sqlmap.org/) | SQL pentesting tool |
+| w3af | [http://w3af.org/](http://w3af.org/) | Web app attack and audit framework |
+| skipfish | [https://github.com/spinkham/skipfish?ref=thechiefio](https://github.com/spinkham/skipfish?ref=thechiefio) | web app security scanner |
+| Metasploit | [https://www.metasploit.com/](https://www.metasploit.com/) | One of the most popular pentesting frameworks |
+| Wapiti | [https://sourceforge.net/projects/wapiti/files/](https://sourceforge.net/projects/wapiti/files/) | web-app vulnerability scanner |
+| Wireshark | [https://www.wireshark.org/](https://www.wireshark.org/) | Network protocols analyzer |
+| Wfuzz | [https://github.com/xmendez/wfuzz](https://github.com/xmendez/wfuzz) | Web pentesting tool |
+
+
+
 #### Linux distributions focused on pentesting and forensics
 
 | Name | Url | Description |
@@ -55,4 +70,5 @@
 | enaqx | [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) | Penetration testing tools |
 | arch3rPro | [https://github.com/arch3rPro/PentestTools](https://github.com/arch3rPro/PentestTools) | Pentest Tools | 
 
-#### 
+
+
