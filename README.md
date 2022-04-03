@@ -83,3 +83,10 @@
 | msm | [https://github.com/msm-code/](https://github.com/msm-code/) | msm-code Tools | 
 | CERT Polska | [https://github.com/CERT-Polska/](https://github.com/CERT-Polska/) | Polish CERT Team | 
 
+
+
+
+#### Sysadmin stuff
+| Name | Url | Description |
+|------|-----|-------------|
+|oh my tmux | [https://github.com/gpakosz/.tmux](https://github.com/gpakosz/.tmux) | Tmux config file by Gregory Pakosz | 
